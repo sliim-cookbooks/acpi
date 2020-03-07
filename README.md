@@ -40,7 +40,7 @@ Just include `acpi` in your node's `run_list`:
 `bundle exec rake`
 
 - Run Kitchen tests:  
-`bundle exec rake kitchen`  
+`bundle exec rake test:kitchen`  
 
 Contributing
 ------------
