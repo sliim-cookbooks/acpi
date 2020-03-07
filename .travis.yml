@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - 2.5.7
+script:
+  - bundle exec rake
+  - bundle exec rake test:kitchen
